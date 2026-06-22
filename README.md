@@ -3,6 +3,17 @@ An all-in-one, fast, and free HD video downloader. Supports video downloads from
 
 <a href="https://cdn.jsdelivr.net/gh/picassoo310/All-in-One-Video-Downloader@main/index.user.js" rel="nofollow"><img height="50px" src="https://camo.githubusercontent.com/22da0f28a604f77e4cdd783ce8ce513cbb95e4f6d275079d3157439d53d9d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616c6c20746865204c61746573742056657273696f6e2d303035323030" data-canonical-src="https://img.shields.io/badge/Install the Latest Version-005200" style="max-width: 100%; height: auto; max-height: 50px;"></a>
 
+<h3>About:</h3>
+An all-in-one, fast, and free HD video downloader. Supports video downloads from YouTube, TikTok, Douyin, XiaoHongShu, Instagram, Threads, X (formerly Twitter), and more. Enjoy seamless, high-quality downloads with no watermarks.
+
+Statement:
+The video download feature currently uses the third-party site <a href="https://www.tool77.com/en/v/downloader">https://www.tool77.com/en/v/downloader</a>. Analysis shows that the site may require a real-person verification of around 10 seconds during the download process. You can either wait patiently for the verification to complete or use the site’s verification extension for a faster process (the extension only needs to be verified once). Other than this, no ads will be shown, so you can use it with confidence.
+
+Spotify music downloads are also powered by a third-party website. The site is ad-free and lets you download music without verification or logging in.
+<a href="https://www.spotriff.com/en">https://www.spotriff.com/en</a>
+
+If you do not wish to use a script that relies on a third-party site for downloads, you may choose to disable or uninstall the script. Thank you for your understanding and support!
+
 <h3>Example:</h3>
 After installing the script, click the link below to test the functionality.
 
