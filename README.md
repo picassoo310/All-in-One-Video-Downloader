@@ -1,7 +1,7 @@
 <h3>About:</h3>
 An all-in-one, fast, and free HD video downloader. Supports video downloads from YouTube, TikTok, Douyin, XiaoHongShu, Instagram, Threads, X (formerly Twitter), and more. Enjoy seamless, high-quality downloads with no watermarks.   
 
-<a href="https://cdn.jsdelivr.net/gh/Xanthella/All-in-One-Video-Downloader@main/index.user.js" rel="nofollow"><img height="50px" src="https://camo.githubusercontent.com/22da0f28a604f77e4cdd783ce8ce513cbb95e4f6d275079d3157439d53d9d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616c6c20746865204c61746573742056657273696f6e2d303035323030" data-canonical-src="https://img.shields.io/badge/Install the Latest Version-005200" style="max-width: 100%; height: auto; max-height: 50px;"></a>
+<a href="https://cdn.jsdelivr.net/gh/picassoo310/All-in-One-Video-Downloader@main/index.user.js" rel="nofollow"><img height="50px" src="https://camo.githubusercontent.com/22da0f28a604f77e4cdd783ce8ce513cbb95e4f6d275079d3157439d53d9d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616c6c20746865204c61746573742056657273696f6e2d303035323030" data-canonical-src="https://img.shields.io/badge/Install the Latest Version-005200" style="max-width: 100%; height: auto; max-height: 50px;"></a>
 
 <h3>Example:</h3>
 After installing the script, click the link below to test the functionality.
@@ -32,24 +32,24 @@ https://www.threads.com/@binhsapphireia/post/DTjzB_RETL3?xmt=AQF08F09L80sNhKbd9S
 https://www.xiaohongshu.com/explore/67e884ab000000001d01f02d?xsec_token=ABR9vc7xZW-eCvefXvmiqKRT8rP3-G1mey22eq8Bd_ewM=&xsec_source=pc_search&source=web_explore_feed
 
 <b>Automatic Download:</b>   
-<img src="https://xanthella.github.io/images/downloader_start.png" width="80%"/>
+<img src="https://picassoo310.github.io/images.io/downloader_start.png" width="80%"/>
 
-<img src="https://xanthella.github.io/images/downloader_progress.png" width="80%"/>
+<img src="https://picassoo310.github.io/images.io/downloader_progress.png" width="80%"/>
 
 <b>Youtube</b>   
-<img src="https://xanthella.github.io/images/youtube.png" width="80%"/>
+<img src="https://picassoo310.github.io/images.io/youtube.png" width="80%"/>
 
 <b>Facebook</b>   
-<img src="https://xanthella.github.io/images/facebook.png" width="80%"/>
+<img src="https://picassoo310.github.io/images.io/facebook.png" width="80%"/>
 
 <b>Tiktok</b>   
-<img src="https://xanthella.github.io/images/tiktok-new.png" width="80%"/>
+<img src="https://picassoo310.github.io/images.io/tiktok-new.png" width="80%"/>
 
 <b>X/Twitter</b>   
-<img src="https://xanthella.github.io/images/x.png" width="80%"/>
+<img src="https://picassoo310.github.io/images.io/x.png" width="80%"/>
 
 <b>Instagram</b>   
-<img src="https://xanthella.github.io/images/instagram-new.png" width="80%"/>
+<img src="https://picassoo310.github.io/images.io/instagram-new.png" width="80%"/>
 
 <b>Threads</b>   
-<img src="https://xanthella.github.io/images/threads.png" width="80%"/>
+<img src="https://picassoo310.github.io/images.io/threads.png" width="80%"/>
